@@ -1,6 +1,6 @@
 {
   "title": "GrammaticalArson",
-  "name": "firefox",
+  "name": "grammatical-arson",
   "version": "0.0.1",
   "description": "Randomizes \"there/their/they're\"",
   "main": "index.js",
